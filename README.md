@@ -1,4 +1,4 @@
-# YOUR PROJECT TITLE
+# SNAKE GAME
 #### Video Demo:  [https://docs.google.com/document/d/1FqsPECacHJC549eNRe6So_OVLqeW7axe8xNxoSR1S2s]
 #### Description: In this single-player game, the user controls a moving snake using WASD keys on the keyboard.
 The objective is for the user to move the snake to eat fruits that appear randomly on the screen.
